@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "@discordjs/rest": "^2.3.0",
+    "canvas": "^2.11.2",
+    "discord-api-types": "0.37.84",
+    "discord.js": "^14.14.1",
+    "fs": "^0.0.1-security",
+    "ms": "2.1.3"
+  }
+}
